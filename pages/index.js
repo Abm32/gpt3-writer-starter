@@ -14,10 +14,10 @@ const Home = () => {
       <div className="container">
         <div className="header">
           <div className="header-title">
-            <h1>sup, insert your headline here</h1>
+            <h1>Talk to Goku from Dragon Ball Z </h1>
           </div>
           <div className="header-subtitle">
-            <h2>insert your subtitle here</h2>
+            <h2>Write a message to Goku, ask him about anything (ex. what’s the meaning of life, how did you get so strong, etc).</h2>
           </div>
         </div>
         {/* Add this code here*/}
